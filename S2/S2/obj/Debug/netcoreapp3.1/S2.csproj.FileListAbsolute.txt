@@ -1,0 +1,26 @@
+C:\Users\monster\Desktop\c#\S2\S2\bin\Debug\netcoreapp3.1\S2.exe
+C:\Users\monster\Desktop\c#\S2\S2\bin\Debug\netcoreapp3.1\S2.deps.json
+C:\Users\monster\Desktop\c#\S2\S2\bin\Debug\netcoreapp3.1\S2.runtimeconfig.json
+C:\Users\monster\Desktop\c#\S2\S2\bin\Debug\netcoreapp3.1\S2.runtimeconfig.dev.json
+C:\Users\monster\Desktop\c#\S2\S2\bin\Debug\netcoreapp3.1\S2.dll
+C:\Users\monster\Desktop\c#\S2\S2\bin\Debug\netcoreapp3.1\S2.pdb
+C:\Users\monster\Desktop\c#\S2\S2\obj\Debug\netcoreapp3.1\S2.csprojAssemblyReference.cache
+C:\Users\monster\Desktop\c#\S2\S2\obj\Debug\netcoreapp3.1\S2.AssemblyInfoInputs.cache
+C:\Users\monster\Desktop\c#\S2\S2\obj\Debug\netcoreapp3.1\S2.AssemblyInfo.cs
+C:\Users\monster\Desktop\c#\S2\S2\obj\Debug\netcoreapp3.1\S2.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\c#\S2\S2\obj\Debug\netcoreapp3.1\S2.dll
+C:\Users\monster\Desktop\c#\S2\S2\obj\Debug\netcoreapp3.1\S2.pdb
+C:\Users\monster\Desktop\c#\S2\S2\obj\Debug\netcoreapp3.1\S2.genruntimeconfig.cache
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\bin\Debug\netcoreapp3.1\S2.exe
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\bin\Debug\netcoreapp3.1\S2.deps.json
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\bin\Debug\netcoreapp3.1\S2.runtimeconfig.json
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\bin\Debug\netcoreapp3.1\S2.runtimeconfig.dev.json
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\bin\Debug\netcoreapp3.1\S2.dll
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\bin\Debug\netcoreapp3.1\S2.pdb
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\obj\Debug\netcoreapp3.1\S2.csprojAssemblyReference.cache
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\obj\Debug\netcoreapp3.1\S2.AssemblyInfoInputs.cache
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\obj\Debug\netcoreapp3.1\S2.AssemblyInfo.cs
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\obj\Debug\netcoreapp3.1\S2.csproj.CoreCompileInputs.cache
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\obj\Debug\netcoreapp3.1\S2.dll
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\obj\Debug\netcoreapp3.1\S2.pdb
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056_Fatma_Zehra_Turhan\S2\S2\obj\Debug\netcoreapp3.1\S2.genruntimeconfig.cache
