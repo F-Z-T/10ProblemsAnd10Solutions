@@ -1,0 +1,45 @@
+C:\Users\monster\Desktop\c#\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.csprojAssemblyReference.cache
+C:\Users\monster\Desktop\c#\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.AssemblyInfoInputs.cache
+C:\Users\monster\Desktop\c#\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.AssemblyInfo.cs
+C:\Users\monster\Desktop\c#\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\c#\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.exe
+C:\Users\monster\Desktop\c#\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.deps.json
+C:\Users\monster\Desktop\c#\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.runtimeconfig.json
+C:\Users\monster\Desktop\c#\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.runtimeconfig.dev.json
+C:\Users\monster\Desktop\c#\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.dll
+C:\Users\monster\Desktop\c#\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.pdb
+C:\Users\monster\Desktop\c#\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.dll
+C:\Users\monster\Desktop\c#\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.pdb
+C:\Users\monster\Desktop\c#\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.genruntimeconfig.cache
+C:\Users\PC\Desktop\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.exe
+C:\Users\PC\Desktop\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.deps.json
+C:\Users\PC\Desktop\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.runtimeconfig.json
+C:\Users\PC\Desktop\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.dll
+C:\Users\PC\Desktop\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.pdb
+C:\Users\PC\Desktop\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.AssemblyInfo.cs
+C:\Users\PC\Desktop\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.dll
+C:\Users\PC\Desktop\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.pdb
+C:\Users\PC\Desktop\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.genruntimeconfig.cache
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.exe
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.deps.json
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.runtimeconfig.json
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.runtimeconfig.dev.json
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.dll
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\bin\Debug\netcoreapp3.1\Odev3.pdb
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.csprojAssemblyReference.cache
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.AssemblyInfoInputs.cache
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.AssemblyInfo.cs
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.csproj.CoreCompileInputs.cache
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.dll
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.pdb
+C:\Users\monster\Downloads\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.genruntimeconfig.cache
+F:\3.sınıf 1.dönem\görsel programlama\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.csprojAssemblyReference.cache
+F:\3.sınıf 1.dönem\görsel programlama\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.AssemblyInfoInputs.cache
+F:\3.sınıf 1.dönem\görsel programlama\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.AssemblyInfo.cs
+F:\3.sınıf 1.dönem\görsel programlama\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.csproj.CoreCompileInputs.cache
+F:\3.sınıf 1.dönem\görsel programlama\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.dll
+F:\3.sınıf 1.dönem\görsel programlama\Odev3\Odev3\Odev3\obj\Debug\netcoreapp3.1\Odev3.pdb
