@@ -9,3 +9,4 @@ S7 -Creating an array of 20 elements that randomly assign numbers from 1 to 300 
 sorting these numbers from large to small;find the smallest number and the largest number;<br>
 a program that prints the arithmetic mean of numbers on the screen.<br>
 S8 -A program that finds the roots of a quadratic equation (a*X2 + B*X + C).<br>
+S9 -A program that calculates the sphere area and volume, Circle area and circumference, cylinder area and volume, rectangular prism area and volume, cube area and volume with the value to be taken from the user by making a menu shape.<br>
