@@ -8,3 +8,4 @@ S6 -Division operations from 1 to 100.<br>
 S7 -Creating an array of 20 elements that randomly assign numbers from 1 to 300 in the integer type;<br>
 sorting these numbers from large to small;find the smallest number and the largest number;<br>
 a program that prints the arithmetic mean of numbers on the screen.<br>
+S8 -A program that finds the roots of a quadratic equation (a*X2 + B*X + C).<br>
