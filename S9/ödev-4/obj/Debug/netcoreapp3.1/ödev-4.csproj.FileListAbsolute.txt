@@ -1,0 +1,26 @@
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\bin\Debug\netcoreapp3.1\ödev-4.exe
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\bin\Debug\netcoreapp3.1\ödev-4.deps.json
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\bin\Debug\netcoreapp3.1\ödev-4.runtimeconfig.json
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\bin\Debug\netcoreapp3.1\ödev-4.runtimeconfig.dev.json
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\bin\Debug\netcoreapp3.1\ödev-4.dll
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\bin\Debug\netcoreapp3.1\ödev-4.pdb
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.csprojAssemblyReference.cache
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.AssemblyInfoInputs.cache
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.AssemblyInfo.cs
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.dll
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.pdb
+C:\Users\monster\Desktop\c#\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.genruntimeconfig.cache
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\bin\Debug\netcoreapp3.1\ödev-4.exe
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\bin\Debug\netcoreapp3.1\ödev-4.deps.json
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\bin\Debug\netcoreapp3.1\ödev-4.runtimeconfig.json
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\bin\Debug\netcoreapp3.1\ödev-4.runtimeconfig.dev.json
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\bin\Debug\netcoreapp3.1\ödev-4.dll
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\bin\Debug\netcoreapp3.1\ödev-4.pdb
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.csprojAssemblyReference.cache
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.AssemblyInfoInputs.cache
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.AssemblyInfo.cs
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.csproj.CoreCompileInputs.cache
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.dll
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.pdb
+F:\3.sınıf 1.dönem\görsel programlama\Ödevler\1180505056\ödev-4\ödev-4\obj\Debug\netcoreapp3.1\ödev-4.genruntimeconfig.cache
