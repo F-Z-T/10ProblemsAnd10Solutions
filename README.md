@@ -10,3 +10,4 @@ sorting these numbers from large to small;find the smallest number and the large
 a program that prints the arithmetic mean of numbers on the screen.<br>
 S8 -A program that finds the roots of a quadratic equation (a*X2 + B*X + C).<br>
 S9 -A program that calculates the sphere area and volume, Circle area and circumference, cylinder area and volume, rectangular prism area and volume, cube area and volume with the value to be taken from the user by making a menu shape.<br>
+S10 -Console application that calculates the letter grade of received notes.<br>
